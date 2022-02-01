@@ -1,4 +1,4 @@
-#CRM website for private hospitals
+# CRM website for private hospitals
 
 A website built using HTML, Bootstrap, and jQuery for frontend. PHP on the backend and Google’s firebase is used as the database.
 
